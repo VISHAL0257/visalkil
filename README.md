@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @visalkil
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning new things.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 visalkil/visalkil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
